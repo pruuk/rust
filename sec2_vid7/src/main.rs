@@ -57,7 +57,7 @@ fn main() {
 
     // char - can be letter, number, emoticon, any special character
     let c1: char = 'a'; // note that single quotes are used for char and double quotes for strings!
-    let c2: char = '3';
+    let c2: char = '3'; // note that you cannot perform mathematical operations on a char that is a digit!
     let c3: char = '+';
     let c4: char = '\u{288A}';
     let c5: char = '\"';
